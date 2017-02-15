@@ -58,6 +58,9 @@ hicup:
     fn: 'HiCUP_summary_report*'
 kallisto:
     contents: '[quant] finding pseudoalignments for the reads'
+kneaddata:
+    fn: '*.log'
+    contents: 'kneaddata.knead_data'
 methylQA:
     fn: '*.report'
 peddy:

@@ -39,7 +39,7 @@ Read QC & pre-processing     | Aligners / quantifiers | Post-alignment processin
                              | [Slamdunk][slamdunk]   | [Samblaster][samblaster]  |
                              | [STAR][star]           | [Samtools][samtools]      |
                              | [Tophat][tophat]       | [SnpEff][snpeff]          |
-                             |                        | [Subread featureCounts][featurecounts] |
+                             | [KneadData][kneaddata] | [Subread featureCounts][featurecounts] |
 
 MultiQC can also easily parse data from custom scripts, if correctly formatted / configured.
 See the [MultiQC documentation](http://multiqc.info/docs/#custom-content) for more information.
@@ -176,4 +176,3 @@ and many others. Thanks for your support!
 [samtools]:       http://multiqc.info/docs/#samtools
 [trimmomatic]:    http://multiqc.info/docs/#trimmomatic
 [tophat]:         http://multiqc.info/docs/#tophat
-

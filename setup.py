@@ -69,6 +69,7 @@ setup(
             'hicup = multiqc.modules.hicup:MultiqcModule',
             'htseq = multiqc.modules.htseq:MultiqcModule',
             'kallisto = multiqc.modules.kallisto:MultiqcModule',
+            'kneaddata = multiqc.modules.kneaddata:MultiqcModule',
             'methylQA = multiqc.modules.methylQA:MultiqcModule',
             'peddy = multiqc.modules.peddy:MultiqcModule',
             'picard = multiqc.modules.picard:MultiqcModule',
